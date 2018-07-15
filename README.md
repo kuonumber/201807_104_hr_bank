@@ -20,5 +20,5 @@
 * 了解learning to rank
 * 利用深度學習
 
-<img src="https://github.com/kuonumber/201807_104_hr_bank/blob/master/keyword.png?raw=true" width="700" height="500">
+<img src="https://github.com/kuonumber/201807_104_hr_bank/blob/master/keyword.png?raw=true" width="1000" height="500">
 
