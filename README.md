@@ -19,4 +19,5 @@
 * 應用TF-IDF 方式改進排序 
 * 了解learning to rank
 * 利用深度學習
-()[https://github.com/kuonumber/201807_104_hr_bank/blob/master/keyword.png?raw=true]
+
+![](https://github.com/kuonumber/201807_104_hr_bank/blob/master/keyword.png?raw=true)
